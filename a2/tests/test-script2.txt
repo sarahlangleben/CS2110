@@ -1,0 +1,25 @@
+help
+addstudent Michelle Obama 1
+addstudent Martha Stewart 2
+addstudent Jennifer Lopez 9
+addstudent HuiWen Zhang 3
+addstudent Marie Curie 4
+addstudent Britney Spears 16
+students
+addcourse IntroChem0 Doe Gates 22:50
+addcourse IntroPhysics1 Ortiz Kennedy 00:1
+addcourse IntroCompSci2 Zhang Hollister 12:25
+addcourse AdvMandarin3 Teng StatlerHallRoom185 09:00
+courses
+enroll 0 0
+enroll 1 0
+enroll 2 0
+enroll 3 0
+enroll 0 1
+enroll 5 1
+drop 0 0
+drop 3 0
+enrollment 0
+enrollment 1
+enrollment 2
+exit

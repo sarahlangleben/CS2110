@@ -1,0 +1,15 @@
+help
+addstudent Joe Smith 2
+addstudent Bill Nye 3
+students
+addcourse OOP Gries Statler 10:00
+addcourse FunctionalProgramming Clarkson Kennedy 13:25
+courses
+enroll 0 0
+enroll 1 1
+enrollment 0
+enrollment 1
+drop 1 0
+drop 0 0
+enrollment 0
+exit

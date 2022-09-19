@@ -1,0 +1,30 @@
+Please enter a command:
+help
+addstudent <firstName> <lastName> <year>
+addcourse <courseName> <profName> <location> <time (24-hour)>
+enroll <student index> <course index>
+drop <student index> course index>
+students
+courses
+enrollment <course index>
+exit
+
+Please enter a command: Successfully created new student: Joe Smith, year: 2
+Please enter a command: Successfully created new student: Bill Nye, year: 3
+Please enter a command:
+0 Joe Smith
+1 Bill Nye
+Please enter a command: Successfully created new course: OOP taught by Professor Gries at 10:00 AM, Location: Statler
+Please enter a command: Successfully created new course: FunctionalProgramming taught by Professor Clarkson at 1:25 PM, Location: Kennedy
+Please enter a command:
+  i Name                                   Time        Instructor          Location
+  0 OOP                                     10:00 AM    Gries               Statler
+  1 FunctionalProgramming                   1:25 PM     Clarkson            Kennedy
+Please enter a command: Joe Smith was successfully enrolled in OOP
+Please enter a command: Bill Nye was successfully enrolled in FunctionalProgramming
+Please enter a command: [Joe Smith]
+Please enter a command: [Bill Nye]
+Please enter a command: Bill Nye is not enrolled in OOP
+Please enter a command: Joe Smith was successfully dropped from OOP
+Please enter a command: []
+Please enter a command:
