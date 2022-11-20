@@ -1,0 +1,47 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:
+Sarah Langleben sml343
+Elisa Kelly eck92
+
+Time spent on the assignment, in hours: 95
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+We wrote the test cases together and debugged as we found errors. Sarah focused on writing Board and TranspositionTable while Elisa worked on Pente, we would then review any additions
+we made and confirm that we understood what the other person wrote before implementing it into the version we submitted. 
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+We developed tests mostly based on the different paths that could be taken in the code, and based on the different ways a player could win Pente. We tried to also come up with thorough 
+edge cases. 
+
+Known problems:
+    (are there any things that do not work?)
+Invariant is incorrect, tests could be more thorough, the program itself generates too many bytes of extraneous output. One of our test cases is failing. 
+
+Time spent on the assignment, in hours: 95
+
+Comments on the assignment:
+I didn't really learn anything from this, I just tried to finish it. 
+
+I realize it's impossible to do well in this class unless you go to office hours, etc. This becomes an issue when it's also impossible
+to get help in office hours. I'm writing this while in Rhodes, I've been waiting for ~4 hours. I've been in consulting hours every day for 
+almost the entire time frame that the assignment has been available to students, and from 4-9 I am lucky to get help once. 
+
+Again, I want to reiterate that I'm extremely grateful for all the TA's help-- they carry this class. But it's not feasible or fair to expect students to camp 
+here every weekday and weekends from 4-9 in order to get the work done. To add to that, when I do get help occasionally I get a response along the lines of "debug it" 
+or "I can't help you". TA's are not effective when they are stretched so thin because the TA to student ratio is so extreme. 
+Their goal is to help as many people as possible, but it's not effective when they cannot truly help. 
+
+I also want to bring up the issue of the room itself. As it gets closer to the deadline, the amount of students waiting for help often spreads out of the room and into the hallways, 
+there would probably be even more students waiting outside if so many students didn't see the queue, realize they had no chance of getting help, and leave to attempt to fix it alone.
+This is especially unfair to students that have other responsibilities (sports practice, a job, family, etc.) that they need to prioritize. Those inside the room usually have to work 
+in uncomfortable conditions (it either stinks of BO or it's super hot or both). Its gross. 
+
+These past assignments have been far too demanding on both the students and TAs, and it is unsustainable. TAs sometimes have to stay past their assigned times, which is 
+not fair to them. For everyone's wellbeing I hope this gets addressed. 
+
+I apologize if any of what I write above is rude, or accusatory. In no way am I trying to blame TAs for a bad grade or a difficult assignment, they do amazing work with the
+very limited resources they are given. I appreciate any help I get from them, and I know ultimately I should not (nor do I) depend on consulting hours/office hours to get these assignments
+done, but like I said before, this isn't sustainable.
