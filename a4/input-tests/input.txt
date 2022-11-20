@@ -1,0 +1,34 @@
+contains Luke Skywalker
+contains Obi-wan Kenobi
+contains Barbara Liskov
+contains Isaac Newton
+contains William Shaw
+contains Maurice Wilkes
+size 
+size Luke Skywalker
+size Robert Smith
+size Walter Taylor
+size Stephen Whisson 
+size Thomas Postlethwaite
+size Peter Law
+size Roger Penrose
+advisor Luke Skywalker
+advisor Isaac Newton
+advisor William Shaw
+advisor Michael Clarkson
+ancestor Luke Skywalker Michael Clarkson
+ancestor Walter Taylor Roger Cotes
+ancestor Isaac Newton Isaac Newton
+ancestor William Shaw Peter Law
+ancestor Andrew Myers Eric Brewer
+ancestor Adam Sedgwick Thomas Postlethwaite
+find Luke Skywalker
+find Isaac Newton
+find William Shaw
+find George Temple
+lineage Luke Skywalker
+lineage Isaac Newton
+lineage William Shaw
+lineage Barbara Liskov
+print
+exit

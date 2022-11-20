@@ -1,0 +1,137 @@
+This professor is not contained in the PhD tree.
+This professor is not contained in the PhD tree.
+This professor is contained in the PhD tree.
+This professor is contained in the PhD tree.
+This professor is contained in the PhD tree.
+This professor is contained in the PhD tree.
+The number of nodes in this tree is: 105.
+This person does not exist in the tree.
+The number of nodes in this tree is: 103.
+The number of nodes in this tree is: 102.
+The number of nodes in this tree is: 101.
+The number of nodes in this tree is: 100.
+The number of nodes in this tree is: 1.
+The number of nodes in this tree is: 7.
+This professor does not exist in the tree.
+This person does not have an advisor.
+The advisor of this advisee is: Roger Penrose.
+The advisor of this advisee is: Andrew Myers.
+These scholars do not have a common ancestor.
+The common ancestor of these scholars is: Roger Cotes.
+The common ancestor of these scholars is: Isaac Newton.
+The common ancestor of these scholars is: Roger Penrose.
+The common ancestor of these scholars is: Barbara Liskov.
+The common ancestor of these scholars is: Thomas Postlethwaite.
+This person does not exist in the tree.
+The PhDTree with Isaac Newton at the root is Isaac Newton[Roger Cotes[Robert Smith[Walter Taylor[Stephen Whisson[Thomas Postlethwaite[Thomas Jones[Adam Sedgwick[William Hopkins[Arthur Cayley[Henry Baker[Harold Jeffreys[Hermann Bondi[Dennis Sciama, Roger Tayler], Sydney Goldstein, Andrew Young], Louis Mordell[Eric Barnes[Thomas Dickson, Paul Scott, Roderick Worley], JW Cassels[Bryan Birch, William Ellison]], John Todd[Roger Penrose[Matthew Ginsberg, Stephen Huggett, Khursheed Khan, Peter Law, Tristan Needham, William Shaw]]], Andrew Forsyth], Maxwell James, Edward Routh[George Darwin[Ernest Brown, Edmund Whittaker[Alexander Aitken[Henry Daniels, Donald Livingstone, Leonard Shenton], Arthur Eddington[Subrahmanyan Chandrasekhar[Norman Lebovitz, Jeremiah Ostriker], Max Krook], GH Hardy[Mary Cartwright, Sydney Chapman[Franz Kahn, George Temple[Jeremiah O'Keeffe]], Richard Rado, Frank Smithies[Seymour Papert], Donald Spencer[Patrick Gallagher, Phillip Griffiths[Howard Garland[Igor Frenkel], Ko Honda, James King, Sunita Vatuk], John McCarthy[Ruzena Bajcsy, Martin Brooks, Claude Green, Barbara Liskov[Maurice Herlihy, Andrew Myers[Owen Arden, Stephen Chong, Michael Clarkson, Stephan Zdancewic, Yizhou Zhang], William Weihl[Eric Brewer]], Raj Reddy, Pierre Vicens]], Edward Titchmarsh[Jacob Cooper[Robert Edwards, Ron Larham, James Stewart], Szu-Hoa Min]]]], John Strutt[Joseph Thomson[Edward Appleton[Karl Emeleus, Charles Oatley, John Ratcliffe[Ronald Bracewell, Maurice Wilkes]], Paul Langevin[Louis deBroglie[Marie-Antoinette Tonnelat, Bernard d'Espagnat]], Owen Richardson[Karl Compton, Ali Mosharafa], Ernest Rutherford[Patrick Blackett, Ralph Fowler]]]]]]]]]]]]].
+The PhDTree with William Shaw at the root is William Shaw.
+The PhDTree with George Temple at the root is George Temple[Jeremiah O'Keeffe].
+This person does not exist in the tree.
+The lineage is: Isaac Newton.
+The lineage is: Isaac Newton--Roger Cotes--Robert Smith--Walter Taylor--Stephen Whisson--Thomas Postlethwaite--Thomas Jones--Adam Sedgwick--William Hopkins--Arthur Cayley--Henry Baker--John Todd--Roger Penrose--William Shaw.
+The lineage is: Isaac Newton--Roger Cotes--Robert Smith--Walter Taylor--Stephen Whisson--Thomas Postlethwaite--Thomas Jones--Adam Sedgwick--William Hopkins--Edward Routh--George Darwin--Edmund Whittaker--GH Hardy--Donald Spencer--John McCarthy--Barbara Liskov.
+Isaac Newton - 1668
+Roger Cotes - 1706
+Robert Smith - 1715
+Walter Taylor - 1723
+Stephen Whisson - 1742
+Thomas Postlethwaite - 1756
+Thomas Jones - 1782
+Adam Sedgwick - 1811
+William Hopkins - 1830
+Arthur Cayley - 1864
+Henry Baker - 1882
+Harold Jeffreys - 1917
+Hermann Bondi - 1944
+Dennis Sciama - 1953
+Roger Tayler - 1954
+Sydney Goldstein - 1928
+Andrew Young - 1959
+Louis Mordell - 1930
+Eric Barnes - 1952
+Thomas Dickson - 1969
+Paul Scott - 1963
+Roderick Worley - 1966
+JW Cassels - 1949
+Bryan Birch - 1958
+William Ellison - 1970
+John Todd - 1932
+Roger Penrose - 1958
+Matthew Ginsberg - 1980
+Stephen Huggett - 1980
+Khursheed Khan - 1969
+Peter Law - 1983
+Tristan Needham - 1986
+William Shaw - 1984
+Andrew Forsyth - 1881
+Maxwell James - 1854
+Edward Routh - 1857
+George Darwin - 1871
+Ernest Brown - 1897
+Edmund Whittaker - 1895
+Alexander Aitken - 1925
+Henry Daniels - 1943
+Donald Livingstone - 1949
+Leonard Shenton - 1940
+Arthur Eddington - 1905
+Subrahmanyan Chandrasekhar - 1933
+Norman Lebovitz - 1961
+Jeremiah Ostriker - 1964
+Max Krook - 1938
+GH Hardy - 1903
+Mary Cartwright - 1930
+Sydney Chapman - 1911
+Franz Kahn - 1949
+George Temple - 1924
+Jeremiah O'Keeffe - 1953
+Richard Rado - 1935
+Frank Smithies - 1937
+Seymour Papert - 1959
+Donald Spencer - 1939
+Patrick Gallagher - 1959
+Phillip Griffiths - 1962
+Howard Garland - 1964
+Igor Frenkel - 1980
+Ko Honda - 1997
+James King - 1969
+Sunita Vatuk - 2009
+John McCarthy - 1951
+Ruzena Bajcsy - 1973
+Martin Brooks - 1980
+Claude Green - 1969
+Barbara Liskov - 1968
+Maurice Herlihy - 1984
+Andrew Myers - 1999
+Owen Arden - 2016
+Stephen Chong - 2009
+Michael Clarkson - 2009
+Stephan Zdancewic - 2002
+Yizhou Zhang - 2017
+William Weihl - 1984
+Eric Brewer - 1994
+Raj Reddy - 1966
+Pierre Vicens - 1969
+Edward Titchmarsh - 1923
+Jacob Cooper - 1940
+Robert Edwards - 1951
+Ron Larham - 1980
+James Stewart - 1967
+Szu-Hoa Min - 1947
+John Strutt - 1868
+Joseph Thomson - 1883
+Edward Appleton - 1913
+Karl Emeleus - 1926
+Charles Oatley - 1926
+John Ratcliffe - 1924
+Ronald Bracewell - 1949
+Maurice Wilkes - 1937
+Paul Langevin - 1902
+Louis deBroglie - 1924
+Marie-Antoinette Tonnelat - 1941
+Bernard d'Espagnat - 1950
+Owen Richardson - 1904
+Karl Compton - 1912
+Ali Mosharafa - 1923
+Ernest Rutherford - 1895
+Patrick Blackett - 1924
+Ralph Fowler - 1915

@@ -1,0 +1,32 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:
+Sarah Langleben, sml343
+Elisa Kelly, eck92
+
+Time spent on the assignment, in hours: 36
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+We worked on the first few functions independently, then reviewing and debugging them together. As the methods 
+became more challenging (starting at maxDepth()) we would code together, discussing solutions and then applying
+them. In Main, Sarah worked on implementing csvToTree and Elisa wrote the methods implementing the PhDTree methods.
+We debugged and reviewed these parts together, along with writing the test cases and test .txt file together.
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+I tried to make tests as distinct and thorough as possible. When writing the tests I usually started from the most basic case (usually this was a tree consisting
+of one person), and then making the tree more complicated from there. It helped to think of the test cases in terms of leaves/roots, and develop tests based on 
+what the specification expected the method to do. When writing the test cases I would draw out a complicated tree and then identified nodes that would be different cases, 
+and then tested those nodes to see how the methods we wrote behaved under different circumstances within a tree (if the node is a root, leaf, etc). 
+
+Known problems:
+    (are there any things that do not work?)
+As far as I can tell, no. Everything should be working correctly. (I really really really hope so)
+
+Time spent on the assignment, in hours: 36
+
+Comments on the assignment:
+This was good practice to understand how trees work and how to implement them, as well as why recursion is so 
+important when learning about trees. The assignment instructions were clear and I feel like it was a good challenge
+while not feeling impossible/overwhelming. 
