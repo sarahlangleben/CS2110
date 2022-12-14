@@ -1,0 +1,28 @@
+A6 Summary
+
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members:
+Sarah Langleben sml343
+Elisa Kelly eck92
+
+Time spent on the assignment, in hours: 12
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+We worked together throughout the assignment and wrote the code together, usually one person would write the code at a time, and then we
+would run it/review it together to make sure it worked.
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+We based our testing on the documentation and provided screenshots in the assignment handout to make sure everything was working.
+We tested by running the game and attempting edge cases like saving to a read-only file, creating a new file, changing the speed/size
+sliders to their min/max values, as well as attempting expected behavior like clicking on the dot, not clicking on the dot, and pressing
+the start button. 
+
+Known problems:
+    (are there any things that do not work?) 
+None that we know of.
+
+Comments on the assignment:
+This assignment was helpful for getting a better understanding of how to use Swing and incorporate it into a simple java-based game.
